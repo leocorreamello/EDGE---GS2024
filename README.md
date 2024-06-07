@@ -1,4 +1,4 @@
-<h1>Wastewise</h1>
+![WasteWise Logo](WasteWiseLogoPng.png)
 
 <section id="explicacao_projeto">
     <article>
