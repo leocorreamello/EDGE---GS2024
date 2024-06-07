@@ -29,12 +29,12 @@
 <section id="integrantes">
     <article>
         <h2>Integrantes</h2>
-                <h3><img src="https://avatars.githubusercontent.com/u/129889380?v=4" width="50px" alt="Pedro Guidotte Icon">  Pedro Guidotte<a href="https://github.com/peguidotte" target="_blank" style="font-style: italic">  /GitHub <i class="fab fa-github"></i></a>
+                <h3><img src="https://avatars.githubusercontent.com/u/129889380?v=4" width="50px" alt="Pedro Guidotte Icon">  Pedro Guidotte | RM556630<a href="https://github.com/peguidotte" target="_blank" style="font-style: italic">  /GitHub <i class="fab fa-github"></i></a>
                 <a href="https://www.linkedin.com/in/pedro-guidotte/" target="_blank" style="font-style: italic">  /LinkedIn<i class="fab fa-linkedin"></i></a></h3>
-                <h3><img src="https://avatars.githubusercontent.com/u/158540749?v=4)" width="50px" alt="Gabriel Vara Icon">  Gabriel Vara<a href="https://github.com/gabrielvara" target="_blank" style="font-style: italic"> 
+                <h3><img src="https://avatars.githubusercontent.com/u/158540749?v=4)" width="50px" alt="Gabriel Vara Icon">  Gabriel Vara | RM555355<a href="https://github.com/gabrielvara" target="_blank" style="font-style: italic"> 
  /GitHub <i class="fab fa-github"></i></a>
                 <a href="https://www.linkedin.com/in/gabriel-vara" target="_blank" style="font-style: italic">  /LinkedIn <i class="fab fa-linkedin"></i></a></h3>
-                <h3><img src="https://avatars.githubusercontent.com/u/158527393?v=4" width="50px" alt="Leonardo Correa Icon">  Leonardo Correa<a href="https://github.com/leocorreamello" target="_blank" style="font-style: italic">  /GitHub <i class="fab fa-github"></i></a>
+                <h3><img src="https://avatars.githubusercontent.com/u/158527393?v=4" width="50px" alt="Leonardo Correa Icon">  Leonardo Correa | RM555573<a href="https://github.com/leocorreamello" target="_blank" style="font-style: italic">  /GitHub <i class="fab fa-github"></i></a>
                 <a href="https://www.linkedin.com/in/leocorreamello/" target="_blank" style="font-style: italic">  /LinkedIn <i class="fab fa-linkedin"></i></a></h3>
     </article>
 </section>
